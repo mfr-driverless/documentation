@@ -7,7 +7,7 @@ project
 │   README.md   
 |
 └── doc
-└── src
+└── app
 |   |   __init__.py
 |   |
 │   └── nodes
